@@ -1,5 +1,9 @@
 # *Sentimental Analysis of tweets*
 _________________________________________
+## **Video demonstration :**
+
+ > https://fb.watch/dzcR7kVEoL/
+_________________________________________
 ## **GOAL**
 
 >The aim of the project is to build a model which would predict the opinion of the people in tweets under particular # 
