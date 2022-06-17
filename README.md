@@ -1,4 +1,4 @@
-# *Sentimental Analysis of tweets*
+# *Sentimental Analysis of tweets on Omicron*
 _________________________________________
 ## **Video demonstration :**
 
