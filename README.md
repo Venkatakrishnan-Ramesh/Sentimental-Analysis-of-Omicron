@@ -1,4 +1,4 @@
-# *Sentimental Analysis of tweets on Omicron*
+# *CoviResp*
 _________________________________________
 ## **Video demonstration :**
 
